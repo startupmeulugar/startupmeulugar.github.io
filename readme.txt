@@ -4,13 +4,6 @@ Documentation for Landing Page Theme by Bootstrapious - http://bootstrapious.com
 
 ################################################################################################
 
-Hi,
-
-thank you for downloading. Have fun and tell your friends about us ;)
-
-Ondrej from Bootstrapious
-
-
 CSS
 ----------
 
