@@ -34,12 +34,12 @@ NAVBAR
 }
 .navbar ul.nav > li > a:hover {
   border-top: solid 3px #f58634;
-  color:  #f58634;  
+  color:  #f58634;
 }
 @media (max-width: 767px) {
   .navbar ul.nav > li > a:hover {
     border-top: solid 3px transparent;
-    color:  #f58634;/home/cezar/Google Drive/Meu Lugar/Logo/logo_menu.png
+    color:  #f58634;
   }
 }
 .navbar ul.nav > li.active > a,
@@ -51,7 +51,7 @@ NAVBAR
   .navbar ul.nav > li.active > a,
   .navbar ul.nav > li.open > a {
     border-top: solid 3px transparent;
-    color:  #f58634; 
+    color:  #f58634;
   }
 }
 /*
@@ -192,7 +192,7 @@ INTRO
 }
 #intro .item {
   min-height: 100%;
-  background: url('../img/home-1.jpg') center center no-repeat;
+  background: url('../img/home-2.jpg') center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
